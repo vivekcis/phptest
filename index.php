@@ -1,1 +1,1 @@
-<?php  echo phpinfo();
+<?php die('Vivek'); echo phpinfo();
