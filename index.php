@@ -1,3 +1,3 @@
 <?php  echo phpinfo();
 
-echo "swayajm";
+echo "swayajasdm";
